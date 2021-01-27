@@ -9,4 +9,4 @@ How to run:
 
 Ex. Basic Game:
 
-- java Play_nk_TTT 3 3 3
+- java Play_nk_TTT 3 3 5
